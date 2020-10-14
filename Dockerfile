@@ -49,5 +49,5 @@ RUN powershell_version=7.0.3 \
     && find /usr/share/powershell -print | grep -i '.*[.]nupkg$' | xargs rm
     
 WORKDIR /app
-COPY ./Trabalho_Docker/publish .
+COPY ./publish .
 ENTRYPOINT ["dotnet", "WebAppTeste.dll"]
