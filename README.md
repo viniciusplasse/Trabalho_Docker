@@ -1,9 +1,12 @@
 # Trabalho_Docker
-https://hub.docker.com/_/microsoft-dotnet-core-aspnet/
+Docker Hub: https://hub.docker.com/_/microsoft-dotnet-core-aspnet/
 
-$ docker build -t imagem-docker-trabalho -f Dockerfile .
+$ docker build -t imagem-docker -f Dockerfile .
 
-docker create --name trabalho-core-container imagem-docker-trabalho
+$ docker create --name trabalho-container imagem-docker
 
-$ docker container start trabalho-core-container
+$  docker container start trabalho-container
+
+$ docker container run -p 5005:80 imagem-docker
+
 
