@@ -1,4 +1,5 @@
 # Trabalho_Docker
+https://hub.docker.com/_/microsoft-dotnet-core-aspnet/
 
 $ docker build -t imagem-docker-trabalho -f Dockerfile .
 
