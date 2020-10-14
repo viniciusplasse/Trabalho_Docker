@@ -49,4 +49,4 @@ RUN powershell_version=7.0.3 \
     && find /usr/share/powershell -print | grep -i '.*[.]nupkg$' | xargs rm
     
 WORKDIR /Executavel
-ENTRYPOINT ["dotnet", "T1_SMA.dll"]
+ENTRYPOINT ["dotnet", "T1_SMA"]
