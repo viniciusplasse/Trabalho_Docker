@@ -1,0 +1,117 @@
+C:\Users\PC-SERVER\source\repos\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.exe
+C:\Users\PC-SERVER\source\repos\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.deps.json
+C:\Users\PC-SERVER\source\repos\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.runtimeconfig.json
+C:\Users\PC-SERVER\source\repos\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.runtimeconfig.dev.json
+C:\Users\PC-SERVER\source\repos\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.dll
+C:\Users\PC-SERVER\source\repos\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.pdb
+C:\Users\PC-SERVER\source\repos\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.csprojAssemblyReference.cache
+C:\Users\PC-SERVER\source\repos\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.AssemblyInfoInputs.cache
+C:\Users\PC-SERVER\source\repos\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.AssemblyInfo.cs
+C:\Users\PC-SERVER\source\repos\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.csproj.CoreCompileInputs.cache
+C:\Users\PC-SERVER\source\repos\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.dll
+C:\Users\PC-SERVER\source\repos\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.pdb
+C:\Users\PC-SERVER\source\repos\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.genruntimeconfig.cache
+C:\Users\Usuario\Documents\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.exe
+C:\Users\Usuario\Documents\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.deps.json
+C:\Users\Usuario\Documents\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.runtimeconfig.json
+C:\Users\Usuario\Documents\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.dll
+C:\Users\Usuario\Documents\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.pdb
+C:\Users\Usuario\Documents\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.AssemblyInfo.cs
+C:\Users\Usuario\Documents\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.dll
+C:\Users\Usuario\Documents\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.pdb
+C:\Users\Usuario\Documents\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.genruntimeconfig.cache
+D:\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.exe
+D:\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.deps.json
+D:\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.runtimeconfig.json
+D:\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.runtimeconfig.dev.json
+D:\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.dll
+D:\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.pdb
+D:\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.AssemblyInfoInputs.cache
+D:\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.AssemblyInfo.cs
+D:\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.csproj.CoreCompileInputs.cache
+D:\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.dll
+D:\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.pdb
+D:\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.genruntimeconfig.cache
+D:\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.csprojAssemblyReference.cache
+C:\Users\Vinicius-PC\Documents\Projetos\T1_SMA\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.exe
+C:\Users\Vinicius-PC\Documents\Projetos\T1_SMA\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.deps.json
+C:\Users\Vinicius-PC\Documents\Projetos\T1_SMA\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.runtimeconfig.json
+C:\Users\Vinicius-PC\Documents\Projetos\T1_SMA\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.runtimeconfig.dev.json
+C:\Users\Vinicius-PC\Documents\Projetos\T1_SMA\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.dll
+C:\Users\Vinicius-PC\Documents\Projetos\T1_SMA\T1_SMA\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.pdb
+C:\Users\Vinicius-PC\Documents\Projetos\T1_SMA\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.csprojAssemblyReference.cache
+C:\Users\Vinicius-PC\Documents\Projetos\T1_SMA\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.AssemblyInfoInputs.cache
+C:\Users\Vinicius-PC\Documents\Projetos\T1_SMA\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.AssemblyInfo.cs
+C:\Users\Vinicius-PC\Documents\Projetos\T1_SMA\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius-PC\Documents\Projetos\T1_SMA\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.dll
+C:\Users\Vinicius-PC\Documents\Projetos\T1_SMA\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.pdb
+C:\Users\Vinicius-PC\Documents\Projetos\T1_SMA\T1_SMA\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.genruntimeconfig.cache
+C:\Users\Vinicius-PC\Desktop\Nova pasta (2)\Projeto\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.exe
+C:\Users\Vinicius-PC\Desktop\Nova pasta (2)\Projeto\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.deps.json
+C:\Users\Vinicius-PC\Desktop\Nova pasta (2)\Projeto\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.runtimeconfig.json
+C:\Users\Vinicius-PC\Desktop\Nova pasta (2)\Projeto\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.runtimeconfig.dev.json
+C:\Users\Vinicius-PC\Desktop\Nova pasta (2)\Projeto\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.dll
+C:\Users\Vinicius-PC\Desktop\Nova pasta (2)\Projeto\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.pdb
+C:\Users\Vinicius-PC\Desktop\Nova pasta (2)\Projeto\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.csprojAssemblyReference.cache
+C:\Users\Vinicius-PC\Desktop\Nova pasta (2)\Projeto\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.AssemblyInfoInputs.cache
+C:\Users\Vinicius-PC\Desktop\Nova pasta (2)\Projeto\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.AssemblyInfo.cs
+C:\Users\Vinicius-PC\Desktop\Nova pasta (2)\Projeto\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius-PC\Desktop\Nova pasta (2)\Projeto\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.dll
+C:\Users\Vinicius-PC\Desktop\Nova pasta (2)\Projeto\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.pdb
+C:\Users\Vinicius-PC\Desktop\Nova pasta (2)\Projeto\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.genruntimeconfig.cache
+C:\Users\Fernando\Downloads\T1_Simulador_Fila_Simples\Projeto\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.exe
+C:\Users\Fernando\Downloads\T1_Simulador_Fila_Simples\Projeto\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.deps.json
+C:\Users\Fernando\Downloads\T1_Simulador_Fila_Simples\Projeto\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.runtimeconfig.json
+C:\Users\Fernando\Downloads\T1_Simulador_Fila_Simples\Projeto\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.runtimeconfig.dev.json
+C:\Users\Fernando\Downloads\T1_Simulador_Fila_Simples\Projeto\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.dll
+C:\Users\Fernando\Downloads\T1_Simulador_Fila_Simples\Projeto\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.pdb
+C:\Users\Fernando\Downloads\T1_Simulador_Fila_Simples\Projeto\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.csprojAssemblyReference.cache
+C:\Users\Fernando\Downloads\T1_Simulador_Fila_Simples\Projeto\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.AssemblyInfoInputs.cache
+C:\Users\Fernando\Downloads\T1_Simulador_Fila_Simples\Projeto\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.AssemblyInfo.cs
+C:\Users\Fernando\Downloads\T1_Simulador_Fila_Simples\Projeto\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Downloads\T1_Simulador_Fila_Simples\Projeto\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.dll
+C:\Users\Fernando\Downloads\T1_Simulador_Fila_Simples\Projeto\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.pdb
+C:\Users\Fernando\Downloads\T1_Simulador_Fila_Simples\Projeto\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.genruntimeconfig.cache
+C:\Users\Fernando\Downloads\Fraga\SMA\T1_2\Projeto_Parte2\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.exe
+C:\Users\Fernando\Downloads\Fraga\SMA\T1_2\Projeto_Parte2\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.deps.json
+C:\Users\Fernando\Downloads\Fraga\SMA\T1_2\Projeto_Parte2\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.runtimeconfig.json
+C:\Users\Fernando\Downloads\Fraga\SMA\T1_2\Projeto_Parte2\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.runtimeconfig.dev.json
+C:\Users\Fernando\Downloads\Fraga\SMA\T1_2\Projeto_Parte2\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.dll
+C:\Users\Fernando\Downloads\Fraga\SMA\T1_2\Projeto_Parte2\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.pdb
+C:\Users\Fernando\Downloads\Fraga\SMA\T1_2\Projeto_Parte2\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.csprojAssemblyReference.cache
+C:\Users\Fernando\Downloads\Fraga\SMA\T1_2\Projeto_Parte2\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.AssemblyInfoInputs.cache
+C:\Users\Fernando\Downloads\Fraga\SMA\T1_2\Projeto_Parte2\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.AssemblyInfo.cs
+C:\Users\Fernando\Downloads\Fraga\SMA\T1_2\Projeto_Parte2\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Downloads\Fraga\SMA\T1_2\Projeto_Parte2\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.dll
+C:\Users\Fernando\Downloads\Fraga\SMA\T1_2\Projeto_Parte2\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.pdb
+C:\Users\Fernando\Downloads\Fraga\SMA\T1_2\Projeto_Parte2\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.genruntimeconfig.cache
+D:\SMA\Projeto_Parte2 (2)\Projeto_Parte2\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.exe
+D:\SMA\Projeto_Parte2 (2)\Projeto_Parte2\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.deps.json
+D:\SMA\Projeto_Parte2 (2)\Projeto_Parte2\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.runtimeconfig.json
+D:\SMA\Projeto_Parte2 (2)\Projeto_Parte2\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.runtimeconfig.dev.json
+D:\SMA\Projeto_Parte2 (2)\Projeto_Parte2\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.dll
+D:\SMA\Projeto_Parte2 (2)\Projeto_Parte2\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.pdb
+D:\SMA\Projeto_Parte2 (2)\Projeto_Parte2\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.csprojAssemblyReference.cache
+D:\SMA\Projeto_Parte2 (2)\Projeto_Parte2\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.AssemblyInfoInputs.cache
+D:\SMA\Projeto_Parte2 (2)\Projeto_Parte2\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.AssemblyInfo.cs
+D:\SMA\Projeto_Parte2 (2)\Projeto_Parte2\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.csproj.CoreCompileInputs.cache
+D:\SMA\Projeto_Parte2 (2)\Projeto_Parte2\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.dll
+D:\SMA\Projeto_Parte2 (2)\Projeto_Parte2\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.pdb
+D:\SMA\Projeto_Parte2 (2)\Projeto_Parte2\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.genruntimeconfig.cache
+D:\SMA\Projeto_Parte2 (2)\T1_Simulador_Fila_tandem\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.exe
+D:\SMA\Projeto_Parte2 (2)\T1_Simulador_Fila_tandem\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.deps.json
+D:\SMA\Projeto_Parte2 (2)\T1_Simulador_Fila_tandem\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.runtimeconfig.json
+D:\SMA\Projeto_Parte2 (2)\T1_Simulador_Fila_tandem\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.runtimeconfig.dev.json
+D:\SMA\Projeto_Parte2 (2)\T1_Simulador_Fila_tandem\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.dll
+D:\SMA\Projeto_Parte2 (2)\T1_Simulador_Fila_tandem\T1_SMA\bin\Debug\netcoreapp3.1\T1_SMA.pdb
+D:\SMA\Projeto_Parte2 (2)\T1_Simulador_Fila_tandem\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.csprojAssemblyReference.cache
+D:\SMA\Projeto_Parte2 (2)\T1_Simulador_Fila_tandem\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.AssemblyInfoInputs.cache
+D:\SMA\Projeto_Parte2 (2)\T1_Simulador_Fila_tandem\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.AssemblyInfo.cs
+D:\SMA\Projeto_Parte2 (2)\T1_Simulador_Fila_tandem\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.csproj.CoreCompileInputs.cache
+D:\SMA\Projeto_Parte2 (2)\T1_Simulador_Fila_tandem\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.dll
+D:\SMA\Projeto_Parte2 (2)\T1_Simulador_Fila_tandem\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.pdb
+D:\SMA\Projeto_Parte2 (2)\T1_Simulador_Fila_tandem\T1_SMA\obj\Debug\netcoreapp3.1\T1_SMA.genruntimeconfig.cache

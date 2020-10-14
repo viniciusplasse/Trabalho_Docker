@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oj6Nkb6XYmkP7M+Z1gXxcbbCP/hhnlxL2EStwZJKZOho6OvSVnswnlNu1IyYXJztylSMFFYfyikk26FiLnG8+g==",
+  "success": true,
+  "projectFilePath": "D:\\SMA\\Projeto_Parte2 (2)\\T1_Simulador_Fila_tandem\\T1_SMA\\T1_SMA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinicius-PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
