@@ -48,5 +48,6 @@ RUN powershell_version=7.0.3 \
     # To reduce image size, remove the copy nupkg that nuget keeps.
     && find /usr/share/powershell -print | grep -i '.*[.]nupkg$' | xargs rm
     
-WORKDIR /Executavel
-ENTRYPOINT ["dotnet", "T1_SMA.dll"]
+WORKDIR /app
+COPY ./Trabalho_Docker/publish .
+ENTRYPOINT ["dotnet", "WebAppTeste.dll"]
